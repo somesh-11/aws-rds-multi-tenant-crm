@@ -194,7 +194,8 @@ Insert the user into the database.
 
 ### Login Page
 
-![Login Page](Login Page.png)
+<img width="1366" height="596" alt="Screenshot 2026-06-09 205620" src="https://github.com/user-attachments/assets/fa6b7032-1524-488a-9e2d-51e605d29622" />
+
 
 ### Dashboard
 
