@@ -2,8 +2,8 @@
 
 $host = "crm-db.cla2w8a2oiff.eu-north-1.rds.amazonaws.com";
 $dbname = "crm-db";
-$user = "admin";
-$password = "somesh112005";
+$user = "your_user_id";
+$password = "your_password";
 
 try {
     $pdo = new PDO(
