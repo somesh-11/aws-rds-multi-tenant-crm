@@ -240,9 +240,3 @@ This project demonstrates:
 - Cloud-Based Architecture
 
 ---
-
-## Author
-
-Your Name
-
-GitHub: https://github.com/yourusername
