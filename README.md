@@ -199,7 +199,8 @@ Insert the user into the database.
 
 ### Dashboard
 
-Add screenshot here.
+<img width="628" height="370" alt="Screenshot 2026-06-09 211148" src="https://github.com/user-attachments/assets/7c74f304-f6fa-42ed-a18a-170f245c9db8" />
+
 
 ### Customer List
 
