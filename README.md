@@ -194,7 +194,7 @@ Insert the user into the database.
 
 ### Login Page
 
-![Login Page](/Login Page.png)
+![Login Page](Login Page.png)
 
 ### Dashboard
 
