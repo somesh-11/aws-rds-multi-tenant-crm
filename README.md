@@ -209,7 +209,8 @@ Insert the user into the database.
 
 ### AWS RDS Console
 
-Add screenshot here.
+<img width="1366" height="561" alt="Screenshot 2026-06-09 212514" src="https://github.com/user-attachments/assets/5e86d643-f731-496c-bec3-6de3b1e19614" />
+
 
 ---
 
