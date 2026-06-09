@@ -204,7 +204,8 @@ Insert the user into the database.
 
 ### Customer List
 
-Add screenshot here.
+<img width="1318" height="512" alt="Screenshot 2026-06-09 212158" src="https://github.com/user-attachments/assets/5444d3ff-32ad-421e-a0ef-88f571002f9f" />
+
 
 ### AWS RDS Console
 
